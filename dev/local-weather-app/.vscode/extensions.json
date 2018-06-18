@@ -8,6 +8,6 @@
         "WallabyJs.quokka-vscode",
         "rbbit.typescript-hero",
         "DSKWRK.vscode-generate-getter-setter",
-        "esbenq.prettier-vscode"
+        "esbenp.prettier-vscode"
     ]
 }
